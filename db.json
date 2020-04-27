@@ -1,0 +1,7 @@
+{
+  "item": [
+    { "title": "Post 1", detail:"Teste 1" },
+    { "title": "Post 2", detail:"Teste 2" },
+    { "title": "Post 3", detail:"Teste 3" }
+  ]
+}
